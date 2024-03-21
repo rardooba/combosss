@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { signIn } from "next-auth/react";
 import Login from "./Login";
 import Logged from "./Logged";
 import { getServerSession } from "next-auth/next";
