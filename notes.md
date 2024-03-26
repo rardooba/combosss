@@ -12,6 +12,6 @@
 
 
 1. Créer des routes API >> faire un call pour avoir une réponse (postMan)
-2. Intéragir avec la BDD >> Railway >> intéragir avec Drizzle (docker dekstop install)
+2. Intéragir avec la BDD >> Railway >> intéragir avec Drizzle (docker desktop install)
 3. Auth > comment savoir qui est connecté
 4. L'authorisation (droit)
